@@ -1,4 +1,19 @@
-## Hi there 👋
+# MultiAccess
+The term "MultiAccess" is a combination of "multi" and "access," emphasizing the ability to access multiple services or resources through a single platform.
+
+## Features
+
+- **Tax Management Service**
+- **Invoice Management Service**
+- **HRM Service**
+- **CRM Service**
+- **Calender service** 
+- **Chart client**
+- **Email Server Management Service**
+- **Email client**
+- **Secure file sharing app**
+- **Self hosted wiki**
+- **Web Server Management Service**
 
 <!--
 
