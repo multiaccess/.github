@@ -3,17 +3,17 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
 
 ## Features
 
-- **Tax Management Service**
-- **Invoice Management Service**
-- **HRM Service**
-- **CRM Service**
+- **Tax Management**
+- **Invoice Management**
+- **HRM**
+- **CRM**
 - **Calender service** 
 - **Chart client**
-- **Email Server Management Service**
+- **Email Server Management**
 - **Email client**
-- **Secure file sharing app**
+- **Secure file sharing**
 - **Self hosted wiki**
-- **Web Server Management Service**
+- **Web Server Management**
 
 <!--
 
