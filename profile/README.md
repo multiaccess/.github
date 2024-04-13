@@ -13,6 +13,7 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
   - **Chart client**
   - **Email Server Management**
   - **Email client**
+  - **Video Conferencing Software**
 - **Document Management and Sharing**
   - **Secure file sharing**
   - **Self hosted wiki**
