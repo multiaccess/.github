@@ -4,6 +4,7 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
 ## Features
 
 - **Tax Management**
+- **Expense Tracking and Management**
 - **Invoice Management**
 - **Human Resource Management(HRM)**
 - **Customer Relationship Management(CRM)**
