@@ -6,14 +6,17 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
 - **Tax Management**
 - **Invoice Management**
 - **HRM**
-- **CRM**
-- **Calender service** 
-- **Chart client**
-- **Email Server Management**
-- **Email client**
-- **Secure file sharing**
-- **Self hosted wiki**
+- **Customer Relationship Management(CRM)**
+- **Communication and Collaboration Tools**
+  - **Calender service** 
+  - **Chart client**
+  - **Email Server Management**
+  - **Email client**
+- **Document Management and Sharing**
+  - **Secure file sharing**
+  - **Self hosted wiki**
 - **Web Server Management**
+- **Customer Support and Feedback**
 
 <!--
 
