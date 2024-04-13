@@ -18,6 +18,7 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
   - **Self hosted wiki**
 - **Web Server Management**
 - **Customer Support and Feedback**
+- **Time Tracking and Attendance Management**
 
 <!--
 
