@@ -7,6 +7,7 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
 - **Expense Tracking and Management**
 - **Invoice Management**
 - **Human Resource Management(HRM)**
+- **Timesheet**
 - **Customer Relationship Management(CRM)**
 - **Communication and Collaboration Tools**
   - **Calender service** 
