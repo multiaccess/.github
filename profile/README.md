@@ -18,7 +18,16 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
 - **Document Management and Sharing**
   - **Secure file sharing**
   - **Self hosted wiki**
-- **Web Server Management**
+- **MultiAdmin**
+  - **Web Server Management**
+  - **File Management**
+  - **Security**
+  - **Backup and Restore**
+  - **Resource Usage Monitoring**
+  - **Email Management**
+  - **Database Management**
+  - **Docker management**
+  - **DNS record management**
 - **Customer Support and Feedback**
 - **Time Tracking and Attendance Management**
 - **Remote Desktop and IT Support(multiaccess Assist)**
