@@ -28,6 +28,7 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
   - **Database Management**
   - **Docker management**
   - **DNS record management**
+  - **VPN**
 - **Customer Support and Feedback**
 - **Time Tracking and Attendance Management**
 - **Remote Desktop and IT Support(multiaccess Assist)**
