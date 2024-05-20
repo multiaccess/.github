@@ -18,6 +18,7 @@ The term "MultiAccess" is a combination of "multi" and "access," emphasizing the
 - **Document Management and Sharing**
   - **Secure file sharing**
   - **Self hosted wiki**
+  - **Esign**
 - **MultiAdmin**
   - **Web Server Management**
   - **File Management**
